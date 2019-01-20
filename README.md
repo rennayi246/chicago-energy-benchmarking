@@ -1,5 +1,8 @@
 # chicago-energy-benchmarking
-Chicago Energy Benchmarking
+System requirements:
+Must have Python 3 and the following packages: pandas, matplotlib, numpy, scipy. Run as Jupyter notebook
+
+Background:
 The purpose of this project is to assess the success of the Chicago Energy Benchmarking ordinance initiated in 2014. This ordinance requires annual energy usage reports from all residential, industrial, and commercial buildings exceeding 50,000 square feet in floor space. Based on the report, the building is then assigned an Energy Star rating between 0 and 100, 100 being the best. The Energy Star rating must be publically displayed. A full description of the contents of the report can be found at https://www.chicago.gov/city/en/depts/mayor/supp_info/chicago-energy-benchmarking/ChicagoEnergyBenchmarkingOverview.html
                                                        
 There is no penalty for having a poor energy rating. The rating system just tells businesses how their building energy usage performances stack up against other similar buildings. By doing this, businesses will be able to identify which of their own practices are inefficient and hopefully make improvements.
